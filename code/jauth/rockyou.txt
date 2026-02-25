@@ -1,0 +1,1 @@
+/Users/howard/picoctf/provided/rockyou.txt
