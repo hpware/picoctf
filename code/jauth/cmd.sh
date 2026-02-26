@@ -1,1 +1,1 @@
-hashcat  -m 16500 jwt.txt rockyou.txt
+hashcat -m 16500 jwt.txt rockyou.txt
